@@ -5,7 +5,6 @@ To run tests, go to the Gradle (elephant) tab in the sidebar, and run the "build
 When you are done working for now, make sure to commit your changes by going to the sousce control tab in the sidebar.<br>
 Give a descriptive message to your changeset, and click the Commit button, make sure to respond "Yes" to staging all changes.<br>
 After you have committed your changes, you must sync them to your repository.
-
 # Tests
 ```
 caseR
